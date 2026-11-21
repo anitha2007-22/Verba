@@ -1,0 +1,6 @@
+{
+  "name": "Verba",
+  "description": "Multilingual translation studio with auto-detection, tone adaptation, native audio pronunciation, and phrasebook management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
